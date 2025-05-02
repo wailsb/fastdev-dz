@@ -1,0 +1,65 @@
+{
+  "company": {
+    "name": "FastDev DZ",
+    "tagline": "Accelerating Digital Innovation",
+    "description": "FastDev DZ is a cutting-edge technology startup focused on delivering high-quality software development services and innovative digital solutions.",
+    "founded": "2023",
+    "location": "Sidi Abdellah - Zeralda",
+    "contactEmail": "wail.saribey@gmail.com",
+    "contactPhone": "+213 553820529",
+    "website": "https://wail-saribey.vercel.app"
+  },
+  "founder": {
+    "name": "Wail Sari Bey",
+    "title": "Founder & CEO",
+    "bio": "Wail Sari Bey is the visionary founder and CEO of FastDev DZ. With expertise in software development and digital transformation, Wail leads the company to deliver exceptional technology solutions that help businesses thrive in the digital era.",
+    "portfolio": "https://wail-saribey.vercel.app"
+  },
+  "services": [
+    {
+      "id": 1,
+      "title": "Web Development",
+      "description": "Custom website and web application development using the latest technologies.",
+      "icon": "web"
+    },
+    {
+      "id": 2,
+      "title": "Mobile Applications",
+      "description": "Cross-platform and native mobile app development for iOS and Android.",
+      "icon": "mobile"
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Design",
+      "description": "User-centered design solutions that create engaging digital experiences.",
+      "icon": "design"
+    },
+    {
+      "id": 4,
+      "title": "Digital Transformation",
+      "description": "End-to-end digital transformation services to modernize your business.",
+      "icon": "transform"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Mezian Abdelraouf Fellag",
+      "company": "ENSIA",
+      "testimonial": "Working with FastDev DZ transformed our digital presence. Their team delivered outstanding results on time and within budget."
+    },
+    {
+      "id": 2,
+      "name": "Mohamed Chahine Benouda zouaoui",
+      "company": "Skybit",
+      "testimonial": "The expertise and professionalism of the FastDev DZ team is exceptional. They helped us launch our platform in record time."
+    }
+  ],
+  "theme": {
+    "primaryColor": "#0098D4",
+    "secondaryColor": "#4B4DED",
+    "accentColor": "#FFFFFF",
+    "textDark": "#333333",
+    "textLight": "#FFFFFF"
+  }
+}
